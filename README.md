@@ -1,0 +1,1 @@
+# bean_to_custom_schema
